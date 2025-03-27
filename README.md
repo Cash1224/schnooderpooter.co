@@ -27,3 +27,5 @@ In an effort to "clean" my Github repositories of copyrighted content, this is n
 
 # Documentation
 Preliminary documentation can be found here: http://slynch.ovh/FNAF-JS-Doc/
+https://unfiltering.github.io/infinite-craft/
+
